@@ -1,0 +1,10 @@
+github.com/go-redis/redis/v8 v8.11.4 h1:5B2vEo7rwr6LRsz06jRH9FQcRfmsAyfPczFxxDPVxUE=
+github.com/go-redis/redis/v8 v8.11.4/go.mod h1:kDhUp+W6FgdswZqYwWLPyJlj6HfEKn7HggxTVBeFgQI=
+github.com/gorilla/mux v1.8.0 h1:mfwD7+aodXrhR3bASl58FE7Jyw8LZ9JHJme7/2doV7c=
+github.com/gorilla/mux v1.8.0/go.mod h1:5m+b9E/9YGL0s0RQpHYwO1SyEd8eK9dJHHDfmxr8tEc=
+github.com/joho/godotenv v1.4.0 h1:vB7PRz0YxshUt73XlfD6c8jS9yIm+7h8VtldFi6Fxy8=
+github.com/joho/godotenv v1.4.0/go.mod h1:kDhUp+W6FgdswZqYwWLPyJlj6HfEKn7HggxTVBeFgQI=
+github.com/lib/pq v1.10.0 h1:DiTUt3pePgtOCc5byyjl38y6ZpKddRtwHvL99xa+Gms=
+github.com/lib/pq v1.10.0/go.mod h1:kDhUp+W6FgdswZqYwWLPyJlj6HfEKn7HggxTVBeFgQI=
+github.com/stretchr/testify v1.7.0 h1:DCf1e9gT6jADvcAvnU+XJ3kZme8EzCcz1e0cmGnOt8I=
+github.com/stretchr/testify v1.7.0/go.mod h1:kDhUp+W6FgdswZqYwWLPyJlj6HfEKn7HggxTVBeFgQI=
